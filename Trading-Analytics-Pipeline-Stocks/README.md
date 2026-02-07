@@ -160,7 +160,9 @@ Dashboard Power BI menampilkan:
 * KPI Cumulative Return (%)
 * Tren harga saham
 * Filter interaktif berdasarkan symbol dan date
-
+* 
+![image1](image1.png)
+![image2](image2.png)
 ### Prinsip Desain Dashboard
 
 * Menggunakan satu fact table (long format)
